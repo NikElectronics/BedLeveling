@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 92,
+            "activePatchIndex": 93,
             "patches": [
                 {
                     "date": 1766318064366,
@@ -376,6 +376,10 @@
                 {
                     "date": 1767162596108,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -2066,9 +2066,9 @@\n                 </div>\r\n                 <div class=\"requirement-card software\">\r\n                     <h4><i class=\"fas fa-thermometer\"></i> TempBot-1000</h4>\r\n                     <p>Набор для построения термобокса</p>\r\n-                    <p><a href=\"https://nikelectronics.github.io/TempBot-100/\" target=\"_blank\" class=\"button-example\" style=\"display: inline-block; text-decoration: none;\"><i class=\"fas fa-external-link-alt\"></i> Перейти к продукту</a></p>\r\n+                    <p><a href=\"https://nikelectronics.github.io/TempBot-1000/\" target=\"_blank\" class=\"button-example\" style=\"display: inline-block; text-decoration: none;\"><i class=\"fas fa-external-link-alt\"></i> Перейти к продукту</a></p>\r\n                 </div>\r\n                 <div class=\"requirement-card software\">\r\n                     <h4><i class=\"fas fa-water\"></i> Мой фонтан</h4>\r\n                     <p>Контроллер управления фонтаном</p>\r\n"
+                },
+                {
+                    "date": 1767162910558,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -2059,9 +2059,9 @@\n                     <h4><i class=\"fas fa-cogs\"></i> Calibration Tool</h4>\r\n                     <p><a href=\"https://github.com/NikElectronics/Calibration-Tool\" target=\"_blank\" class=\"button-example\" style=\"display: inline-block; text-decoration: none;\"><i class=\"fab fa-github\"></i> Перейти к репозиторию</a></p>\r\n                 </div> -->\r\n                 <div class=\"requirement-card software\">\r\n-                    <h4><i class=\"fas fa-cube\"></i> ELIXtoFIX</h4>\r\n+                    <h4><i class=\"fas fa-cube\"></i> ЭликсToFIX</h4>\r\n                     <p>Диагностический модуль для работы с аккумуляторами MAKITA LXT</p>\r\n                     <p><a href=\"https://nikelectronics.github.io/ELIXStoFIX/\" target=\"_blank\" class=\"button-example\" style=\"display: inline-block; text-decoration: none;\"><i class=\"fas fa-external-link-alt\"></i> Перейти к продукту</a></p>\r\n                 </div>\r\n                 <div class=\"requirement-card software\">\r\n"
                 }
             ],
             "date": 1766318064366,
