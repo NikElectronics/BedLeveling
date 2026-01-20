@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 93,
+            "activePatchIndex": 94,
             "patches": [
                 {
                     "date": 1766318064366,
@@ -380,6 +380,10 @@
                 {
                     "date": 1767162910558,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -2059,9 +2059,9 @@\n                     <h4><i class=\"fas fa-cogs\"></i> Calibration Tool</h4>\r\n                     <p><a href=\"https://github.com/NikElectronics/Calibration-Tool\" target=\"_blank\" class=\"button-example\" style=\"display: inline-block; text-decoration: none;\"><i class=\"fab fa-github\"></i> Перейти к репозиторию</a></p>\r\n                 </div> -->\r\n                 <div class=\"requirement-card software\">\r\n-                    <h4><i class=\"fas fa-cube\"></i> ELIXtoFIX</h4>\r\n+                    <h4><i class=\"fas fa-cube\"></i> ЭликсToFIX</h4>\r\n                     <p>Диагностический модуль для работы с аккумуляторами MAKITA LXT</p>\r\n                     <p><a href=\"https://nikelectronics.github.io/ELIXStoFIX/\" target=\"_blank\" class=\"button-example\" style=\"display: inline-block; text-decoration: none;\"><i class=\"fas fa-external-link-alt\"></i> Перейти к продукту</a></p>\r\n                 </div>\r\n                 <div class=\"requirement-card software\">\r\n"
+                },
+                {
+                    "date": 1768885379957,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -603,9 +603,9 @@\n         <div class=\"container\" id=\"section1\">\r\n             <h2><i class=\"fas fa-microchip\"></i> 1. Аппаратная часть системы</h2>\r\n \r\n             <div class=\"screenshot\">\r\n-                <img src=\"images/hardware_setup.jpg\" alt=\"Аппаратная часть системы\">\r\n+                <img src=\"images/hard.png\" alt=\"Аппаратная часть системы\">\r\n                 <p class=\"caption\">Рисунок 1: Аппаратная часть системы </p>\r\n             </div>\r\n \r\n             <h3>Компоненты аппаратной части:</h3>\r\n"
                 }
             ],
             "date": 1766318064366,
